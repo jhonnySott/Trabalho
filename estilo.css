@@ -1,0 +1,43 @@
+body {
+background-color: #ADD8E6;
+}
+
+h1 {
+  color: #1d0101; /* cor azul */
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: bold;
+  background-color:#050392;
+}
+
+p {
+  font-size: 30px;
+  text-align: justify;
+  color: #0a0400;
+  font-family: Arial, sans-serif;
+}
+
+
+ul li {
+  margin: 50px;
+}
+img
+{
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+table   
+th, td {
+  border: 1px solid #000000;
+  width: 200px;
+  padding: 10px;
+  text-align: left;
+  background-color:#a4abfa
+}
+a:hover {
+  color: #267c23; /* cor do link quando o mouse passa sobre ele */
+  text-decoration: underline;
+}
+
+
+
